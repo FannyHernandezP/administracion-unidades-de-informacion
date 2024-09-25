@@ -25,7 +25,7 @@
 - **Diseño de funciones**:
   - Clasificación de actividades, asignación de responsabilidades y objetivos verificables.
   - [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](http://bit.ly/3BkBsgE)
-  - [🖼 Imagen: Functional Design](https://example.com/images/functional-design.png)
+  - [🖼 Imagen: Functional Design](https://fannyhernandezp.github.io/administracion-unidades-de-informacion/functional-design.png)
 
 ### 🏛 Organización Formal e Informal
 #### 📜 Organización Formal
@@ -33,16 +33,16 @@
   - **División del trabajo**: Asignación de tareas para maximizar eficiencia.
   - **Especialización**: Roles específicos y definidos.
   - **Relaciones jerárquicas**: Claras líneas de autoridad.
-  - [🎥 Video: Qué es una organización formal e informal](https://www.youtube.com/watch?v=BZ_bC8gXJcw)
-  - [🎥 Video: Organización formal e informal explicada](https://www.youtube.com/watch?v=O7gQjdtTvys)
-  - [📖 Referencia: Chiavenato (2006)](https://www.mheducation.com/)
-  - [🖼 Imagen: Formal Organization](https://example.com/images/formal-organization.png)
+  - [🎥 Video: Qué es una organización formal e informal](https://www.youtube.com/watch?app=desktop&v=sCMqa_EsAeY&t=10s)
+  - [🎥 Video: Organización formal e informal explicada](https://www.youtube.com/watch?app=desktop&v=sCMqa_EsAeY&t=4m05s)
+  - [📖 Referencia: Chiavenato (2006)](https://bit.ly/3XYkmy3)
+  - [🖼 Imagen: Formal Organization](https://bit.ly/3ZENHyO)
 
 #### 🌐 Organización Informal
 - Relaciones espontáneas entre empleados.
   - Relaciones voluntarias, no basadas en jerarquías formales.
   - Flexible y sujeta a cambios.
-  - [📖 Referencia: Robbins & Coulter (2005)](https://www.pearson.com/store/p/management-global-edition/P100000198810)
+  - [📖 Referencia: Chiavenato (2006)](https://bit.ly/3BuLPhG)
   - [🖼 Imagen: Informal Organization](https://example.com/images/informal-organization.png)
 
 ## 🏬 División Organizacional
@@ -52,10 +52,10 @@
 - **Geográfica**: Dividido por zonas geográficas de operación.
 - **Clientes**: Enfocado en los tipos de clientes.
 - **Combinación de enfoques**: Varias formas de departamentalización combinadas.
-- [🎥 Video: División organizacional y departamentalización](https://www.youtube.com/watch?v=BRHlA4ST_eE)
-- [🎥 Video: Tipos de departamentalización](https://www.youtube.com/watch?v=J9xeu-nlpIw)
+- [🎥 Video: División organizacional y departamentalización](https://youtu.be/XF4WNRQL0JY?si=eJIeQT0tK7mSnDnr&t=59)
+- [🎥 Video: Tipos de departamentalización](https://youtu.be/BcwE6Bp1E6M?si=PuXUJowPabi2P0yI&t=89)
 - [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](https://www.mheducation.com/)
-- [🖼 Imagen: Departmentalization](https://example.com/images/departmentalization.png)
+- [🖼 Imagen: Departmentalization](https://fannyhernandezp.github.io/administracion-unidades-de-informacion/tipos.png)
 
 ## ⚖ Concepto de Autoridad
 ### Tipos de autoridad
