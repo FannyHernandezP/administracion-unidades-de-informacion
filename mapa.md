@@ -43,7 +43,7 @@
   - Relaciones voluntarias, no basadas en jerarquías formales.
   - Flexible y sujeta a cambios.
   - [📖 Referencia: Chiavenato (2006)](https://bit.ly/3BuLPhG)
-  - [🖼 Imagen: Informal Organization](https://example.com/images/informal-organization.png)
+  - [🖼 Imagen: Informal Organization](https://www.researchgate.net/profile/Andry-Alamsyah/publication/259287892/figure/fig3/AS:667781552947206@1536222937261/a-Formal-organizational-structure-b-Informal-organizational-structure-of.png)
 
 ## 🏬 División Organizacional
 ### Tipos de departamentalización
@@ -54,28 +54,27 @@
 - **Combinación de enfoques**: Varias formas de departamentalización combinadas.
 - [🎥 Video: División organizacional y departamentalización](https://youtu.be/XF4WNRQL0JY?si=eJIeQT0tK7mSnDnr&t=59)
 - [🎥 Video: Tipos de departamentalización](https://youtu.be/BcwE6Bp1E6M?si=PuXUJowPabi2P0yI&t=89)
-- [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](https://www.mheducation.com/)
+- [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](https://www.google.com.co/books/edition/Administraci%C3%B3n/7BEmQgAACAAJ?hl=es&kptab=overview)
 - [🖼 Imagen: Departmentalization](https://fannyhernandezp.github.io/administracion-unidades-de-informacion/tipos.png)
-
 ## ⚖ Concepto de Autoridad
 ### Tipos de autoridad
 - **Autoridad de línea**: Supervisión directa.
 - **Autoridad de staff**: Asesoría sin supervisión directa.
   - **Especializada**: Asistencia técnica con autoridad limitada.
 - **Autoridad funcional**: Control sobre procesos en áreas externas.
-- [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](https://www.mheducation.com/)
-- [🎥 Video: Tipos de autoridad en la administración](https://www.youtube.com/watch?v=yDiJhe3GLzU)
-- [🖼 Imagen: Types of Authority](https://example.com/images/types-of-authority.png)
+- [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](https://www.google.com.co/books/edition/Administraci%C3%B3n/7BEmQgAACAAJ?hl=es&kptab=overview)
+- [🎥 Video: Tipos de autoridad en la administración](https://youtu.be/BcwE6Bp1E6M?si=_gPx8VflJDIFjB4n&t=506)
+- [🖼 Imagen: Types of Authority](https://www.liderdelemprendimiento.com/wp-content/uploads/2022/09/Tipos-de-autoridad.png)
 
 ## 🌍 Responsabilidad Social Corporativa (RSC)
 ### Definiciones y objetivos
 - Compromiso social y medioambiental.
   - **Objetivo**: Crear valor a largo plazo para stakeholders.
-  - [📖 Referencia: AECA (2015)](https://aeca.es/)
+  - [📖 Referencia: AECA (2015)](https://aeca.es/?s=responsabilidad+social)
   - [📖 Referencia: WBCSD (2000)](https://www.wbcsd.org/)
   - [📖 Referencia: Libro Verde de la UE (2001)](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A52001DC0366)
-  - [🎥 Video: Qué es la RSC](https://www.youtube.com/watch?v=Av5HJGOWOEo)
-  - [🖼 Imagen: Corporate Social Responsibility](https://example.com/images/corporate-social-responsibility.png)
+  - [🎥 Video: Qué es la RSC](https://www.youtube.com/watch?v=c_CCxNkRmmE)
+  - [🖼 Imagen: Corporate Social Responsibility](https://letsrebold.com/wp-content/uploads/2023/01/RSC.jpg)
 
 ### Tipos de enfoque
 - **Funcionalista**: Regula la relación empresa-sociedad.
@@ -83,5 +82,5 @@
 - **Culturalista**: Refleja las normas y valores culturales.
 - **Constructivista**: La RSC se construye a través de la interacción.
 - [🎥 Video: La ética en las empresas](https://www.youtube.com/watch?v=a1NLc23SNnc)
-- [📖 Referencia: Cortina (2013)](https://www.tecnos.es/)
-- [🎥 Video: Quiénes son los Stakeholders](https://www.youtube.com/watch?v=73KlNA-yh8A)
+- [📖 Referencia: Cortina (2013)](https://www.google.com.co/books/edition/La_%C3%A9tica/LbJsZmJmgPQC?hl=es&gbpv=1&dq=Cortina+(2013&printsec=frontcover)
+- [🎥 Video: Quiénes son los Stakeholders](https://www.youtube.com/watch?v=eOd8ksJSC5g)
