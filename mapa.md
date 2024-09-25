@@ -43,7 +43,7 @@
   - Relaciones voluntarias, no basadas en jerarquías formales.
   - Flexible y sujeta a cambios.
   - [📖 Referencia: Chiavenato (2006)](https://bit.ly/3BuLPhG)
-  - [🖼 Imagen: Informal Organization](https://www.researchgate.net/profile/Andry-Alamsyah/publication/259287892/figure/fig3/AS:667781552947206@1536222937261/a-Formal-organizational-structure-b-Informal-organizational-structure-of.png)
+  - [🖼 Imagen: Informal Organization](https://www.researchgate.net/figure/a-Formal-organizational-structure-b-Informal-organizational-structure-of_fig3_259287892)
 
 ## 🏬 División Organizacional
 ### Tipos de departamentalización
@@ -56,6 +56,7 @@
 - [🎥 Video: Tipos de departamentalización](https://youtu.be/BcwE6Bp1E6M?si=PuXUJowPabi2P0yI&t=89)
 - [📖 Referencia: Koontz, Weihrich, & Cannice (2012)](https://www.google.com.co/books/edition/Administraci%C3%B3n/7BEmQgAACAAJ?hl=es&kptab=overview)
 - [🖼 Imagen: Departmentalization](https://fannyhernandezp.github.io/administracion-unidades-de-informacion/tipos.png)
+
 ## ⚖ Concepto de Autoridad
 ### Tipos de autoridad
 - **Autoridad de línea**: Supervisión directa.
@@ -70,7 +71,7 @@
 ### Definiciones y objetivos
 - Compromiso social y medioambiental.
   - **Objetivo**: Crear valor a largo plazo para stakeholders.
-  - [📖 Referencia: AECA (2015)](https://aeca.es/?s=responsabilidad+social)
+  - [📖 Referencia: AECA (2015)]()
   - [📖 Referencia: WBCSD (2000)](https://www.wbcsd.org/)
   - [📖 Referencia: Libro Verde de la UE (2001)](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=celex%3A52001DC0366)
   - [🎥 Video: Qué es la RSC](https://www.youtube.com/watch?v=c_CCxNkRmmE)
@@ -81,6 +82,6 @@
 - **Sociológico**: Relacionado con las dinámicas de poder.
 - **Culturalista**: Refleja las normas y valores culturales.
 - **Constructivista**: La RSC se construye a través de la interacción.
-- [🎥 Video: La ética en las empresas](https://www.youtube.com/watch?v=a1NLc23SNnc)
-- [📖 Referencia: Cortina (2013)](https://www.google.com.co/books/edition/La_%C3%A9tica/LbJsZmJmgPQC?hl=es&gbpv=1&dq=Cortina+(2013&printsec=frontcover)
+- [🎥 Video: La ética en las empresas](https://www.youtube.com/watch?v=rPlhgBQSV1w)
+- [📖 Referencia: Cortina (2013)](https://www.google.com.co/books/edition/La_%C3%A9tica/LbJsZmJmgPQC?hl=es&gbpv=1&dq=Cortina+(2013&printsec=frontcover))
 - [🎥 Video: Quiénes son los Stakeholders](https://www.youtube.com/watch?v=eOd8ksJSC5g)
